@@ -1,0 +1,5 @@
+﻿KPI_Metrica,Objetivo_Meta,Frecuencia_Medicion,Metodo_Calculo,Accion_Estrategia
+Retención Semanal (DAU/MAU),> 40%,Semanal,(Usuarios Activos Diarios / Usuarios Activos Mensuales) * 100,Ajustar notificaciones push y recordatorios de entrenamiento
+Tasa de Finalización de Rutinas,> 75%,Mensual,(Entrenamientos completados marcados / Entrenamientos iniciados) * 100,Optimizar la duración y volumen de los ejercicios sugeridos
+Conversión a Plan Pro,> 5%,Mensual,(Usuarios suscritos a Plan Pro / Total usuarios registrados) * 100,Lanzar ofertas de prueba gratuita Pro de 7 días
+Churn Rate (Cancelación),< 3%,Mensual,(Usuarios Pro que cancelan en el mes / Usuarios Pro inicio de mes) * 100,Implementar encuestas de salida y mejoras en la personalización

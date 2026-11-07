@@ -1,0 +1,10 @@
+﻿SyncFit - Arquitectura Web y Módulos de la App,,,,,,
+"Planificación de pantallas, flujos e interacción de usuario",,,,,,
+,,,,,,
+ID Pantalla,Ubicación / Menú,Nombre del Módulo,Componentes Visuales / Funcionalidad,Acción Principal (CTA),Estatus,Notas / Especificaciones
+MOD-01,Header Principal,Navbar & Branding,"Logo SyncFit, selector de perfil de usuario y modo oscuro/claro",Clic -> Dashboard Principal (/),Implementado,Diseño responsive enfocado en móvil
+MOD-02,Pantalla Inicio,Dashboard de Rutina,"Resumen diario (grupo muscular), resumen de descanso y barra de progreso semanal",Botón 'Iniciar Entrenamiento',Diseñado,Conexión directa con cronómetro
+MOD-03,Menú Lateral,Generador de Rutinas,"Formulario interactivo (Objetivos, días disponibles, nivel de experiencia)",Botón 'Generar Rutina con IA',En desarrollo,Algoritmo de recomendación personalizada
+MOD-04,Pantalla Activa,Temporizador y Series,"Registro de cargas/reps en tiempo real, cronómetro de descanso automático",Botón 'Marcar Serie Completada',Optimizado,Notificaciones de descanso finalizado
+MOD-05,Perfil / Ajustes,Historial y Progreso,"Gráficas de volumen levantado (kg), evolución de peso corporal y métricas",Botón 'Exportar / Backup',Implementado,Sincronización en la nube
+MOD-06,Footer / Modal,Legales y Salud,"Exención de responsabilidad médica, términos de servicio y privacidad",Botón 'Ver Aviso de Privacidad',Revisión Legal,Cumplimiento normativo de salud

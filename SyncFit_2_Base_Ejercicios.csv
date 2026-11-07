@@ -1,0 +1,8 @@
+﻿ID_Ejercicio,Nombre_Ejercicio,Grupo_Muscular,Equipamiento,Dificultad,Series_Sugeridas,Reps_Tiempo,Descanso_Seg
+EJ-001,Press de Banca Plano,Pecho / Tríceps,Barra y Banco,Intermedio,4,8 - 12 reps,90
+EJ-002,Sentadilla Trasera con Barra,Cuádriceps / Glúteo,Barra y Racks,Avanzado,4,6 - 10 reps,120
+EJ-003,Dominadas Pronas,Espalda / Bíceps,Barra fija,Intermedio,3,Al fallo,90
+EJ-004,Plancha Abdominal ISO,Core,Peso corporal,Principiante,3,45 seg,60
+EJ-005,Zancadas / Lunges Alternados,Piernas,Mancuernas,Principiante,3,12 reps x pierna,60
+EJ-006,Press Militar sentado,Hombros,Mancuernas,Intermedio,4,10 - 12 reps,90
+EJ-007,Peso Muerto Rumano,Isquiotibiales / Glúteo,Barra,Avanzado,4,8 - 10 reps,120
